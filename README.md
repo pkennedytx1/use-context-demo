@@ -11,3 +11,5 @@ yarn start
 ```
 
 The main branch contains the final code, to get a template use the starter-code branch and code from there.
+
+You can cycle between the branches to see what it would look like without useContext being super awesome.
